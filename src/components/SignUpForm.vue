@@ -70,7 +70,7 @@
   -->
  
 
-<footer class="footer">&copy;<span>2022 Designed by Bogdan. <a href="https://github.com/B0gda">GitHub</a></span></footer>
+<footer class="footer">&copy;<span>2022 Designed by Bogdan. <a href="https://github.com/B0gda/SGS-Vostok-Limited-Form">GitHub</a></span></footer>
 
   
 
